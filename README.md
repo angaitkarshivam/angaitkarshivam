@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angaitkarshivam&label=Views&color=258bcb&style=plastic" alt="angaitkarshivam" /> </p>
 
+<img align="right" alt="coding" width="500" src="https://github.com/angaitkarshivam/angaitkarshivam/blob/main/developer-dribbble.gif">
+
 - 🌱 I’m currently learning **Cyber Forensics**
 
 - 👯 I’m looking to collaborate on **Cyber Research**
