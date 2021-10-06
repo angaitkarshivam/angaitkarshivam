@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **angaitkar.shivam@gmail.com**
 
-- ⚡ Fun fact **I keep windows in my basket**
+- ⚡ Fun fact **I hate Windows still I Use it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
